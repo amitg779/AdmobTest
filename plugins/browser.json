@@ -1,0 +1,25 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-google-play-services": {
+            "PACKAGE_NAME": "com.appfeel.admob.test"
+        },
+        "cordova-plugin-googleplayservices": {
+            "PACKAGE_NAME": "com.appfeel.admob.test"
+        },
+        "cordova-admob": {
+            "PACKAGE_NAME": "com.appfeel.admob.test"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-connectivity-monitor": {
+            "PACKAGE_NAME": "com.appfeel.admob.test"
+        }
+    }
+}
